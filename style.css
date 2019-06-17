@@ -1,0 +1,85 @@
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.button-style{
+	background-color: #ffbd59;
+	color: #000000;
+	margin: 20px 0;
+	padding:10px 20px;
+	font-weight: 700;
+}
+
+.button-style:hover{
+	background-color: #000000;
+	color: #ffbd59;
+}
+
+/*HEADER STYLE*/
+header{
+	background-color: #FFFFFF;
+	font-weight: 700;
+}
+
+#logo{
+	margin: 20px;
+}
+
+.nav-item{
+	font-size: 16px;
+	margin: 10px 20px;
+}
+
+.nav{
+	background-color: #000000;
+}
+
+.nav-link{
+	color: #FFFFFF;
+}
+
+.nav-link:hover{
+	color: #ffbd59;
+	border-bottom: 2px solid #ffbd59;
+}
+
+/*TOP INTRO*/
+
+#top_intro{
+	margin-top: 20px;
+	padding: 20px;
+	text-align: justify;
+}
+
+#what_we_do .container h1, #services_offered .container h1, #our_work .container h1, #contact_us .container h1{
+	text-align: center;
+	background-color: #000000;
+	color: #ffbd59;
+	padding: 20px;
+	font-size: 22px;
+	font-weight: 900;
+}
+
+.h5-content{
+	font-size: 20px;
+	font-weight: 700;
+	padding-bottom: 10px;
+	border-bottom: 4px solid #ffbd59;
+	margin-top: 10px;
+}
+
+section{
+	padding: 50px;
+}
+
+.services-content{
+	font-weight: 600;
+	margin-top: 10px;
+}
+
+footer{
+	background-color: #1c1c1c;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 20px;
+}
